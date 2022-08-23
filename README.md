@@ -2,7 +2,7 @@
 #### I'm a data engineer and analyst
 ##### NOW
 - :books: Learning data engineering in Udacity nanodegree program
-- :gear: Studying **AWS**, **PostgreSQL**, **Apache Cassandra**
+- :gear: Studying **AWS**, **PostgreSQL**, **Apache Cassandra**, **Apache Airflow**, **PySpark**
 
 ##### BIO
 - :eyes: I’m interested in Datewarehouse and Datalake
