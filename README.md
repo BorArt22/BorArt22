@@ -2,9 +2,10 @@
 #### I'm a data engineer and analyst
 ##### NOW
 - :gear: I am working at my personal project
+- :eyes: I am looking for new opportunities
 
 ##### BIO
-- :eyes: I’m interested in Data Analysis and Engineering
+- :eyes: I’m interested in Data Engineering and Analysis
 - :gear: I've experience in 
   - **SQL** (**PL/SQL**, **PostgreSQL**),  
   - **BigData** (**Hive**, **Impala**,**Apache Cassandra**) 
